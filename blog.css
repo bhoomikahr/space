@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+.container{
+  text-align: center;
+  color: white;
+}
+
+#panel1{
+  background-color: white;
+  padding: 50px;
+  display: none;
+  text-align: center;
+}
+
+
+#panel{
+  background-color: white;
+  padding: 50px;
+  display: none;
+  text-align: center;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
